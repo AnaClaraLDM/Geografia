@@ -56,14 +56,16 @@ nav ul li a {
     margin: 15px auto;
     font-size:larger;
 }
-.hero button {
+.hero a {
     background-color: #fed583;
     border:none;
     padding: 10px 30px;
     font-size: 18px;
-    border-radius: 15px;
+    border-radius: 10px;
     font-weight:600;
     margin-top: 12px;
+    color: #000009;
+    text-decoration: none;
 }
 .hero-image img {
     max-width: 100%;
